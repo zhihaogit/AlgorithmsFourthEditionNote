@@ -2,6 +2,7 @@ package codes.chapter02.section01;
 
 /**
  * 算法 2.3 希尔排序
+ * shell insertion sort
  * 使数组中任意间隔为 h的元素都是有序的
  */
 public class algorithms2_3 extends Example {
