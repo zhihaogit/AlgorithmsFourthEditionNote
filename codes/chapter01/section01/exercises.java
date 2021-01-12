@@ -1,3 +1,5 @@
+package codes.chapter01.section01;
+
 import java.util.Scanner;
 
 /**
